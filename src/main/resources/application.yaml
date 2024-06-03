@@ -1,0 +1,3 @@
+spring.application.name: spring-mvc
+
+server.port: 8090
